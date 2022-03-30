@@ -1,4 +1,4 @@
-**Develop a React Task Tracker <br/>
+Develop a React Task Tracker <br/>
 
 Options<br/>
   - Add Task<br/>
