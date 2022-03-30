@@ -1,7 +1,20 @@
+Develop a React Task Tracker <br/>
+Options<br/>
+  1)Add Task<br/>
+  2)Delete Task<br/>
+  3)Update Reminder in Task<br/>
+  4)Route to another page without reaload<br/>
+  
+ Libs<br/>
+  1)react<br/>
+  2)react-router-dom<br/>
+  3)react-icons<br/>
+  4)prop-types<br/>
+  
+  
+  
+  
 
-1)clone this project to your ide <br />
-2)open terminal<br />
-3)run with npm start command <br />
-4)adding delete update reminder tasks<br />
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/26384546/160681194-7fbb5e27-4a52-40b8-9662-8b883e712e43.gif)
+![screen-recorder-wed-mar-30-2022-17-31-50](https://user-images.githubusercontent.com/26384546/160861948-a7a5dc43-b0ca-42da-9d4f-7e519346c115.gif)
+
